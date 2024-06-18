@@ -1,4 +1,6 @@
-## Hi there 👋
+
+<h1 align="center">## Hi there 👋 , I'm Asif Patan</h1>
+<h3 align="center">A passionate Android developer from India</h3>
 
 <!--
 **AsifPatan/AsifPatan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
